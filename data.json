@@ -1,0 +1,73 @@
+data = `[
+    {
+        "id": 1,
+        "name": "RP-3001",
+        "description": "Molde 1",
+        "image": "https://www.molde.com/molde-1.jpg",
+        "parts": [
+            {
+                "id": 1,
+                "num": "P1",
+                "2d": "0",
+                "3d": "0",
+                "nome": "SECURITY STRAP",
+                "quantidade": "15",
+                "dimref": "2X3X1",
+                "material": "ABS",
+                "obs": ""
+            },
+            {
+                "id": 2,
+                "num": "P032",
+                "2d": "1",
+                "3d": "1",
+                "nome": "DOG",
+                "quantidade": "4",
+                "dimref": "2X3X1",
+                "material": "PEP",
+                "obs": "Peça Tótil Moldante"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "RP-3002",
+        "description": "Molde 2",
+        "image": "https://www.molde.com/molde-1.jpg",
+        "parts": [
+            {
+                "id": 1,
+                "num": "P1",
+                "2d": "0",
+                "3d": "0",
+                "nome": "SECURITY STRAP",
+                "quantidade": "15",
+                "dimref": "2X3X1",
+                "material": "ABS",
+                "obs": ""
+            },
+            {
+                "id": 2,
+                "num": "P2",
+                "2d": "1",
+                "3d": "1",
+                "nome": "DOG",
+                "quantidade": "4",
+                "dimref": "2X3X1",
+                "material": "PEP",
+                "obs": ""
+            },
+            {
+                "id": 3,
+                "num": "P3",
+                "2d": "0",
+                "3d": "1",
+                "nome": "CAT",
+                "quantidade": "15",
+                "dimref": "2X3X1",
+                "material": "ABS",
+                "obs": ""
+            }
+        ]
+    }
+]`;
