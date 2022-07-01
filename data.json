@@ -1,7 +1,7 @@
 data = `[
     {
         "id": 1,
-        "name": "RP-3003",
+        "name": "RP-3004",
         "description": "Molde 1",
         "image": "https://www.molde.com/molde-1.jpg",
         "parts": [
