@@ -8,14 +8,14 @@ data = `[
             {
                 "id": 1,
                 "num": "P0",
-                "2d": "0",
-                "3d": "0",
+                "2d": "1",
+                "3d": "1",
                 "state": 0,
                 "nome": "SECURITY STRAP",
-                "quantidade": "15",
-                "dimref": "2X3X1",
-                "material": "ABS",
-                "obs": ""
+                "quantidade": "1",
+                "dimref": "433,00 X 60,40 X 4,33",
+                "material": "1.1730",
+                "obs": "-"
             },
             {
                 "id": 2,
