@@ -6,7 +6,7 @@ data = `[
         "image": "https://www.molde.com/molde-1.jpg",
         "parts": [
             {
-                "id": 1,
+                "id": 0,
                 "num": "P0",
                 "2d": "1",
                 "3d": "1",
@@ -18,7 +18,7 @@ data = `[
                 "obs": "-"
             },
             {
-                "id": 2,
+                "id": 32,
                 "num": "P32",
                 "2d": "1",
                 "3d": "1",
