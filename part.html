@@ -96,7 +96,7 @@
                         if (partNum == part.num) {
 						
                             arrayHeaders = ["Peça", "Nome", "Quantidade", "Dim/Ref", "Material", "Observações"];
-                            arrayDetalhes1 = [part.num, part.nome, part.quantidade, part.dimref, part.material, part.obs];
+                            arrayDetalhes1 = [part.id, part.nome, part.quantidade, part.dimref, part.material, part.obs];
                             arrayDetalhes = ["Molde: " + moldeNum, "Peça: " + partNum];
 					
                             var table = document.createElement("table");
