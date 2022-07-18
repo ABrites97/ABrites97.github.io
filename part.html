@@ -118,7 +118,7 @@
                             divContainer.innerHTML = "";
                             divContainer.appendChild(table);
 							
-							document.getElementById("moldeName").innerHTML = moldeNum;
+							document.getElementById("moldeName").innerHTML = "Molde: " + moldeNum;
                             document.getElementById(part.state).checked = true;
                             document.getElementById("partImage").src = `moldes/${molde.name}/${part.num}/part.png`;
                             var btn = document.getElementById("pdfButton");
